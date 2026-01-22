@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "Which god do these attributes belong to?",
+      "options": ["Zeus", "Poseidon", "Hades", "Apollo"],
+      "image": ["Zeus/cornucopia.png", "Zeus/eagle.png", "Zeus/lightning_bolt.png", "Zeus/oak_tree.png", "Zeus/statue.png"],
+      "correctAnswer": "Zeus"
+    },
+    {
+      "question": "Which god do these attributes belong to?",
+      "options": ["Zeus", "Poseidon", "Hera", "Aphrodite"],
+      "image": ["Poseidon/sea.png", "Poseidon/trident.png", "Poseidon/ship.png", "Poseidon/mermaid.png"],
+      "correctAnswer": "Poseidon"
+    },
+    {
+      "question": "Which god do these attributes belong to?",
+      "options": ["Athena", "Hera", "Artemis", "Aphrodite"],
+      "image": ["Athena/owl.png", "Athena/olive_tree.png", "Athena/aegis_shield.png", "Athena/helmet.png"],
+      "correctAnswer": "Athena"
+    },
+    {
+      "question": "Which god do these attributes belong to?",
+      "options": ["Hera", "Demeter", "Hestia", "Athena"],
+      "image": ["Hera/peacock.png", "Hera/diadem_crown.png", "Hera/cow.png", "Hera/pomegranate.png"],
+      "correctAnswer": "Hera"
+    },
+    {
+      "question": "Which god do these attributes belong to?",
+      "options": ["Apollo", "Dionysus", "Hermes", "Ares"],
+      "image": ["Apollo/lyre.png", "Apollo/laurel_wreath.png", "Apollo/sun_chariot.png", "Apollo/bow_and_arrow.png"],
+      "correctAnswer": "Apollo"
+    },
+    {
+      "question": "Which god do these attributes belong to?",
+      "options": ["Artemis", "Athena", "Hera", "Aphrodite"],
+      "image": ["Artemis/moon.png", "Artemis/deer.png", "Artemis/hunting_bow.png", "Artemis/cypress_tree.png"],
+      "correctAnswer": "Artemis"
+    },
+    {
+      "question": "Which god do these attributes belong to?",
+      "options": ["Ares", "Hephaestus", "Hades", "Zeus"],
+      "image": ["Ares/spear.png", "Ares/helmet.png", "Ares/vulture.png", "Ares/boar.png"],
+      "correctAnswer": "Ares"
+    },
+    {
+      "question": "Which god do these attributes belong to?",
+      "options": ["Aphrodite", "Hera", "Athena", "Artemis"],
+      "image": ["Aphrodite/dove.png", "Aphrodite/sea_shell.png", "Aphrodite/mirror.png", "Aphrodite/rose.png"],
+      "correctAnswer": "Aphrodite"
+    },
+    {
+      "question": "Which god do these attributes belong to?",
+      "options": ["Dionysus", "Hermes", "Apollo", "Poseidon"],
+      "image": ["Dionysus/grapes.png", "Dionysus/wine_cup.png", "Dionysus/leopard.png", "Dionysus/thyrsus_staff.png"],
+      "correctAnswer": "Dionysus"
+    },
+    {
+      "question": "Which god do these attributes belong to?",
+      "options": ["Demeter", "Hestia", "Hera", "Artemis"],
+      "image": ["Demeter/wheat_sheaf.png", "Demeter/cornucopia.png", "Demeter/torch.png", "Demeter/poppy_flower.png"],
+      "correctAnswer": "Demeter"
+    },
+    {
+      "question": "Which god do these attributes belong to?",
+      "options": ["Hephaestus", "Ares", "Hermes", "Zeus"],
+      "image": ["Hephaestus/hammer.png", "Hephaestus/anvil.png", "Hephaestus/tongs.png", "Hephaestus/volcano.png"],
+      "correctAnswer": "Hephaestus"
+    },
+    {
+      "question": "Which god do these attributes belong to?",
+      "options": ["Hermes", "Apollo", "Dionysus", "Ares"],
+      "image": ["Hermes/winged_sandals.png", "Hermes/caduceus_staff.png", "Hermes/tortoise.png", "Hermes/winged_helmet.png"],
+      "correctAnswer": "Hermes"
+    },
+    {
+      "question": "Which god do these attributes belong to?",
+      "options": ["Hestia", "Demeter", "Hera", "Athena"],
+      "image": ["Hestia/hearth_fire.png", "Hestia/kettle.png", "Hestia/veil.png", "Hestia/home_altar.png"],
+      "correctAnswer": "Hestia"
+    },
+    {
+      "question": "Which god do these attributes belong to?",
+      "options": ["Hades", "Thanatos", "Ares", "Poseidon"],
+      "image": ["Hades/cerberus.png", "Hades/bident.png", "Hades/helm_of_darkness.png", "Hades/pomegranate_seeds.png"],
+      "correctAnswer": "Hades"
+    },
+    {
+      "question": "Identify the god associated with these Roman counterparts.",
+      "options": ["Zeus", "Poseidon", "Ares", "Hermes"],
+      "image": ["Zeus/jupiter_symbol.png", "Zeus/eagle_standard.png"],
+      "correctAnswer": "Zeus"
+    },
+    {
+      "question": "Which goddess is born from the sea foam?",
+      "options": ["Aphrodite", "Amphitrite", "Thetis", "Hera"],
+      "image": ["Aphrodite/birth_of_venus.png", "Aphrodite/foam.png"],
+      "correctAnswer": "Aphrodite"
+    },
+    {
+      "question": "Which god is known as the 'Earthshaker'?",
+      "options": ["Poseidon", "Hades", "Hephaestus", "Ares"],
+      "image": ["Poseidon/earthquake_crack.png", "Poseidon/horse.png"],
+      "correctAnswer": "Poseidon"
+    },
+    {
+      "question": "Who is the twin sister of Apollo?",
+      "options": ["Artemis", "Athena", "Aphrodite", "Hestia"],
+      "image": ["Artemis/moon_crescent.png", "Artemis/quiver.png"],
+      "correctAnswer": "Artemis"
+    },
+    {
+      "question": "Which god is often depicted with a winged helmet?",
+      "options": ["Hermes", "Perseus", "Ares", "Apollo"],
+      "image": ["Hermes/flying_shoes.png", "Hermes/traveler_hat.png"],
+      "correctAnswer": "Hermes"
+    },
+    {
+      "question": "Who is the Queen of the Underworld?",
+      "options": ["Persephone", "Hecate", "Hera", "Demeter"],
+      "image": ["Hades/pomegranate.png", "Hades/throne_underworld.png"],
+      "correctAnswer": "Persephone"
+    }
+  ]
+}

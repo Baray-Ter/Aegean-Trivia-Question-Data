@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "question": "Which one is Zeus' wife in Greek mythology?",
+      "options": ["Hera", "Athena", "Aphrodite", "Demeter"],
+      "correctAnswer": "Hera"
+    },
+    {
+      "question": "Who is the god of the sea?",
+      "options": ["Zeus", "Poseidon", "Hades", "Apollo"],
+      "correctAnswer": "Poseidon"
+    },
+    {
+      "question": "Who is the goddess of wisdom and war strategy?",
+      "options": ["Artemis", "Athena", "Hestia", "Hera"],
+      "correctAnswer": "Athena"
+    },
+    {
+      "question": "Who is the messenger of the gods?",
+      "options": ["Hermes", "Ares", "Hephaestus", "Dionysus"],
+      "correctAnswer": "Hermes"
+    },
+    {
+      "question": "Which god rules the Underworld?",
+      "options": ["Thanatos", "Hades", "Ares", "Poseidon"],
+      "correctAnswer": "Hades"
+    },
+    {
+      "question": "Who is the goddess of love and beauty?",
+      "options": ["Athena", "Hera", "Aphrodite", "Persephone"],
+      "correctAnswer": "Aphrodite"
+    },
+    {
+      "question": "Which hero performed the 12 Labors?",
+      "options": ["Perseus", "Achilles", "Hercules", "Theseus"],
+      "correctAnswer": "Hercules"
+    },
+    {
+      "question": "Who had snakes for hair and could turn people to stone?",
+      "options": ["Medusa", "Hydra", "Chimera", "Scylla"],
+      "correctAnswer": "Medusa"
+    },
+    {
+      "question": "Who is the god of war?",
+      "options": ["Ares", "Apollo", "Zeus", "Hermes"],
+      "correctAnswer": "Ares"
+    },
+    {
+      "question": "Who flew too close to the sun with wax wings?",
+      "options": ["Icarus", "Daedalus", "Orpheus", "Jason"],
+      "correctAnswer": "Icarus"
+    },
+    {
+      "question": "What is the name of the three-headed dog guarding the Underworld?",
+      "options": ["Hydra", "Cerberus", "Chimera", "Orthrus"],
+      "correctAnswer": "Cerberus"
+    },
+    {
+      "question": "Who is the god of the sun, music, and prophecy?",
+      "options": ["Apollo", "Dionysus", "Hermes", "Hephaestus"],
+      "correctAnswer": "Apollo"
+    },
+    {
+      "question": "Who opened the box that released evils into the world?",
+      "options": ["Helen", "Pandora", "Cassandra", "Medea"],
+      "correctAnswer": "Pandora"
+    },
+    {
+      "question": "Who is the blacksmith god of fire and forge?",
+      "options": ["Hephaestus", "Ares", "Zeus", "Poseidon"],
+      "correctAnswer": "Hephaestus"
+    },
+    {
+      "question": "Who is the goddess of the hunt and the moon?",
+      "options": ["Artemis", "Athena", "Demeter", "Hestia"],
+      "correctAnswer": "Artemis"
+    },
+    {
+      "question": "Who holds the sky on his shoulders?",
+      "options": ["Prometheus", "Atlas", "Cronus", "Polyphemus"],
+      "correctAnswer": "Atlas"
+    },
+    {
+      "question": "Who is the god of wine and festivity?",
+      "options": ["Dionysus", "Apollo", "Hermes", "Eros"],
+      "correctAnswer": "Dionysus"
+    },
+    {
+      "question": "Who is the goddess of the harvest and agriculture?",
+      "options": ["Demeter", "Gaia", "Rhea", "Hera"],
+      "correctAnswer": "Demeter"
+    },
+    {
+      "question": "Which river must souls cross to reach the Underworld?",
+      "options": ["Nile", "Styx", "Tiber", "Amazon"],
+      "correctAnswer": "Styx"
+    },
+    {
+      "question": "Who killed Medusa?",
+      "options": ["Perseus", "Odysseus", "Achilles", "Hector"],
+      "correctAnswer": "Perseus"
+    }
+  ]
+}
