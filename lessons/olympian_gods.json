@@ -10,7 +10,7 @@
         "type": "radio",
         "choices": ["Zeus", "Poseidon", "Hades", "Apollo"]
       },
-      "correctAnswer": "Zeus"
+      "correctAnswer": ["Zeus"]
     },
     {
       "question": {
@@ -34,7 +34,7 @@
         "type": "radio",
         "choices": ["Athena", "Hera", "Artemis", "Aphrodite"]
       },
-      "correctAnswer": "Athena"
+      "correctAnswer": ["Athena"]
     },
     {
       "question": {
@@ -46,7 +46,7 @@
         "type": "true-false",
         "choices": ["True", "False"]
       },
-      "correctAnswer": "True"
+      "correctAnswer": ["True"]
     },
     {
       "question": {
@@ -58,7 +58,7 @@
         "type": "radio",
         "choices": ["Apollo", "Dionysus", "Hermes", "Ares"]
       },
-      "correctAnswer": "Apollo"
+      "correctAnswer": ["Apollo"]
     },
     {
       "question": {
@@ -70,7 +70,7 @@
         "type": "true-false",
         "choices": ["True", "False"]
       },
-      "correctAnswer": "True"
+      "correctAnswer": ["True"]
     },
     {
       "question": {
@@ -94,7 +94,7 @@
         "type": "radio",
         "choices": ["Hermes", "Perseus", "Ares", "Apollo"]
       },
-      "correctAnswer": "Hermes"
+      "correctAnswer": ["Hermes"]
     },
     {
       "question": {
@@ -106,7 +106,7 @@
         "type": "radio",
         "choices": ["Persephone", "Hecate", "Hera", "Demeter"]
       },
-      "correctAnswer": "Persephone"
+      "correctAnswer": ["Persephone"]
     }
   ]
 }
