@@ -5,7 +5,7 @@
     {
       "id": "olympians-01",
       "title": "Olympian Gods",
-      "path": "lessons/olympian_gods.json",
+      "fileUrl": "lessons/olympian_gods.json", 
       "checksum": "a1b2c3d4"
     }
   ]
