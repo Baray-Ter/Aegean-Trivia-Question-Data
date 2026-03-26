@@ -3,7 +3,7 @@
   "lastUpdated": "2026-03-04T20:30:00Z",
   "categories": [
     {
-      "id": "olympians-01",
+      "id": "olympians_01",
       "title": "Olympian Gods",
       "fileUrl": "lessons/olympian_gods.json", 
       "checksum": "a1b2c3d4"
