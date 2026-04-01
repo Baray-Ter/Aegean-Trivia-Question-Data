@@ -1,46 +1,62 @@
 {
-  "version": "1.3.0",
-  "lastUpdated": "2026-04-01T15:30:00Z",
+  "version": "1.5.0",
+  "lastUpdated": "2026-04-01T15:45:00Z",
   "categories": [
     {
       "id": "olympians_01",
       "title": "Olympian Gods",
+      "description": "Learn the basics and the deep lore of the major Greek gods.",
+      "thumbnail": "thumbnails/olympians_01.png",
       "levels": [
         {
-          "difficulty": "easy",
+          "difficultyName": "Easy",
+          "totalQuestions": 10,
           "fileUrl": "lessons/OlympianGods/olympians_easy.json",
-          "checksum": "e1e1e1e1"
+          "checksum": "e1a1b2c3",
+          "fileSize": "15KB"
         },
         {
-          "difficulty": "normal",
+          "difficultyName": "Normal",
+          "totalQuestions": 15,
           "fileUrl": "lessons/OlympianGods/olympians_normal.json",
-          "checksum": "n2n2n2n2"
+          "checksum": "n2b2c3d4",
+          "fileSize": "22KB"
         },
         {
-          "difficulty": "hard",
+          "difficultyName": "Hard",
+          "totalQuestions": 25,
           "fileUrl": "lessons/OlympianGods/olympians_hard.json",
-          "checksum": "h3h3h3h3"
+          "checksum": "h3c3d4e5",
+          "fileSize": "45KB"
         }
       ]
     },
     {
       "id": "aegean_region_01",
       "title": "Aegean Region",
+      "description": "Explore the ancient cities, history, and geography of the Aegean coast.",
+      "thumbnail": "thumbnails/aegean_region_01.png",
       "levels": [
         {
-          "difficulty": "easy",
+          "difficultyName": "Easy",
+          "totalQuestions": 10,
           "fileUrl": "lessons/AegeanRegion/aegean_easy.json",
-          "checksum": "a4a4a4a4"
+          "checksum": "a1b2c3d4",
+          "fileSize": "14KB"
         },
         {
-          "difficulty": "normal",
+          "difficultyName": "Normal",
+          "totalQuestions": 15,
           "fileUrl": "lessons/AegeanRegion/aegean_normal.json",
-          "checksum": "b5b5b5b5"
+          "checksum": "b2c3d4e5",
+          "fileSize": "21KB"
         },
         {
-          "difficulty": "hard",
+          "difficultyName": "Hard",
+          "totalQuestions": 25,
           "fileUrl": "lessons/AegeanRegion/aegean_hard.json",
-          "checksum": "c6c6c6c6"
+          "checksum": "c3d4e5f6",
+          "fileSize": "42KB"
         }
       ]
     }
