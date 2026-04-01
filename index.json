@@ -1,18 +1,48 @@
 {
-  "version": "1.2.2",
-  "lastUpdated": "2026-04-01T12:00:00Z",
+  "version": "1.3.0",
+  "lastUpdated": "2026-04-01T15:30:00Z",
   "categories": [
     {
       "id": "olympians_01",
       "title": "Olympian Gods",
-      "fileUrl": "lessons/OlympianGods/olympian_gods.json",
-      "checksum": "c5d6e7f8"
+      "levels": [
+        {
+          "difficulty": "easy",
+          "fileUrl": "lessons/OlympianGods/olympians_easy.json",
+          "checksum": "e1e1e1e1"
+        },
+        {
+          "difficulty": "normal",
+          "fileUrl": "lessons/OlympianGods/olympians_normal.json",
+          "checksum": "n2n2n2n2"
+        },
+        {
+          "difficulty": "hard",
+          "fileUrl": "lessons/OlympianGods/olympians_hard.json",
+          "checksum": "h3h3h3h3"
+        }
+      ]
     },
     {
       "id": "aegean_region_01",
       "title": "Aegean Region",
-      "fileUrl": "lessons/AegeanRegion/aegean_region_01.json", 
-      "checksum": "d6e7f8g9"
+      "levels": [
+        {
+          "difficulty": "easy",
+          "fileUrl": "lessons/AegeanRegion/aegean_easy.json",
+          "checksum": "a4a4a4a4"
+        },
+        {
+          "difficulty": "normal",
+          "fileUrl": "lessons/AegeanRegion/aegean_normal.json",
+          "checksum": "b5b5b5b5"
+        },
+        {
+          "difficulty": "hard",
+          "fileUrl": "lessons/AegeanRegion/aegean_hard.json",
+          "checksum": "c6c6c6c6"
+        }
+      ]
     }
   ]
 }
