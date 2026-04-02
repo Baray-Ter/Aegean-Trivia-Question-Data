@@ -1,6 +1,6 @@
 {
-  "version": "1.5.0",
-  "lastUpdated": "2026-04-01T15:45:00Z",
+  "version": "1.5.1",
+  "lastUpdated": "2026-04-02T11:10:00Z",
   "categories": [
     {
       "id": "olympians_01",
@@ -12,22 +12,19 @@
           "difficultyName": "Easy",
           "totalQuestions": 10,
           "fileUrl": "lessons/OlympianGods/olympians_easy.json",
-          "checksum": "e1a1b2c3",
-          "fileSize": "15KB"
+          "checksum": "e1a1b2c3"
         },
         {
           "difficultyName": "Normal",
           "totalQuestions": 15,
           "fileUrl": "lessons/OlympianGods/olympians_normal.json",
-          "checksum": "n2b2c3d4",
-          "fileSize": "22KB"
+          "checksum": "n2b2c3d4"
         },
         {
           "difficultyName": "Hard",
           "totalQuestions": 25,
           "fileUrl": "lessons/OlympianGods/olympians_hard.json",
-          "checksum": "h3c3d4e5",
-          "fileSize": "45KB"
+          "checksum": "h3c3d4e5"
         }
       ]
     },
@@ -41,22 +38,19 @@
           "difficultyName": "Easy",
           "totalQuestions": 10,
           "fileUrl": "lessons/AegeanRegion/aegean_easy.json",
-          "checksum": "a1b2c3d4",
-          "fileSize": "14KB"
+          "checksum": "a1b2c3d4"
         },
         {
           "difficultyName": "Normal",
           "totalQuestions": 15,
           "fileUrl": "lessons/AegeanRegion/aegean_normal.json",
-          "checksum": "b2c3d4e5",
-          "fileSize": "21KB"
+          "checksum": "b2c3d4e5"
         },
         {
           "difficultyName": "Hard",
           "totalQuestions": 25,
           "fileUrl": "lessons/AegeanRegion/aegean_hard.json",
-          "checksum": "c3d4e5f6",
-          "fileSize": "42KB"
+          "checksum": "c3d4e5f6"
         }
       ]
     }
