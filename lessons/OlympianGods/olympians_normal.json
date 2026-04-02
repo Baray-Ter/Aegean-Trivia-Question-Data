@@ -1,0 +1,112 @@
+{
+  "questions": [
+    {
+      "question": {
+        "type": "image-grid",
+        "value": "Which god do these attributes belong to?",
+        "media": ["Zeus/cornucopia.png", "Zeus/eagle.png", "Zeus/lightning_bolt.png", "Zeus/oak_tree.png", "Zeus/statue.png"]
+      },
+      "options": {
+        "type": "radio",
+        "choices": ["Zeus", "Poseidon", "Hades", "Apollo"]
+      },
+      "correctAnswer": ["Zeus"]
+    },
+    {
+      "question": {
+        "type": "image-grid",
+        "value": "Select all attributes that belong to Poseidon.",
+        "media": ["Poseidon/sea.png", "Poseidon/trident.png", "Poseidon/ship.png", "Poseidon/mermaid.png"]
+      },
+      "options": {
+        "type": "checkbox",
+        "choices": ["Sea", "Trident", "Ship", "Mermaid"]
+      },
+      "correctAnswer": ["Sea", "Trident", "Ship", "Mermaid"]
+    },
+    {
+      "question": {
+        "type": "image-grid",
+        "value": "Which god do these attributes belong to?",
+        "media": ["Athena/owl.png", "Athena/olive_tree.png", "Athena/aegis_shield.png", "Athena/helmet.png"]
+      },
+      "options": {
+        "type": "radio",
+        "choices": ["Athena", "Hera", "Artemis", "Aphrodite"]
+      },
+      "correctAnswer": ["Athena"]
+    },
+    {
+      "question": {
+        "type": "text-only",
+        "value": "Is Hera the goddess of marriage and Queen of the Gods?",
+        "media": []
+      },
+      "options": {
+        "type": "true-false",
+        "choices": ["True", "False"]
+      },
+      "correctAnswer": ["True"]
+    },
+    {
+      "question": {
+        "type": "image-grid",
+        "value": "Which god do these attributes belong to?",
+        "media": ["Apollo/lyre.png", "Apollo/laurel_wreath.png", "Apollo/sun_chariot.png", "Apollo/bow_and_arrow.png"]
+      },
+      "options": {
+        "type": "radio",
+        "choices": ["Apollo", "Dionysus", "Hermes", "Ares"]
+      },
+      "correctAnswer": ["Apollo"]
+    },
+    {
+      "question": {
+        "type": "text-only",
+        "value": "Artemis is the twin sister of Apollo.",
+        "media": []
+      },
+      "options": {
+        "type": "true-false",
+        "choices": ["True", "False"]
+      },
+      "correctAnswer": ["True"]
+    },
+    {
+      "question": {
+        "type": "image-grid",
+        "value": "Which items are associated with Ares?",
+        "media": ["Ares/spear.png", "Ares/helmet.png", "Ares/vulture.png", "Ares/boar.png"]
+      },
+      "options": {
+        "type": "checkbox",
+        "choices": ["Spear", "Vulture", "Boar", "Hammer"]
+      },
+      "correctAnswer": ["Spear", "Vulture", "Boar"]
+    },
+    {
+      "question": {
+        "type": "image-grid",
+        "value": "Which god is often depicted with a winged helmet?",
+        "media": ["Hermes/flying_shoes.png", "Hermes/traveler_hat.png"]
+      },
+      "options": {
+        "type": "radio",
+        "choices": ["Hermes", "Perseus", "Ares", "Apollo"]
+      },
+      "correctAnswer": ["Hermes"]
+    },
+    {
+      "question": {
+        "type": "text-only",
+        "value": "Who is the Queen of the Underworld?",
+        "media": []
+      },
+      "options": {
+        "type": "radio",
+        "choices": ["Persephone", "Hecate", "Hera", "Demeter"]
+      },
+      "correctAnswer": ["Persephone"]
+    }
+  ]
+}
