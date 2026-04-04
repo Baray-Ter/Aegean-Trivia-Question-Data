@@ -4,7 +4,13 @@
       "question": {
         "type": "image-grid",
         "value": "Which god do these attributes belong to?",
-        "media": ["Zeus/cornucopia.png", "Zeus/eagle.png", "Zeus/lightning_bolt.png", "Zeus/oak_tree.png", "Zeus/statue.png"]
+        "media": [
+          "images/zeus/cornucopia.png", 
+          "images/zeus/eagle.png", 
+          "images/zeus/lightning_bolt.png", 
+          "images/zeus/oak_tree.png", 
+          "images/zeus/statue.png"
+        ]
       },
       "options": {
         "type": "radio",
@@ -16,7 +22,12 @@
       "question": {
         "type": "image-grid",
         "value": "Select all attributes that belong to Poseidon.",
-        "media": ["Poseidon/sea.png", "Poseidon/trident.png", "Poseidon/ship.png", "Poseidon/mermaid.png"]
+        "media": [
+          "images/poseidon/sea.png", 
+          "images/poseidon/trident.png", 
+          "images/poseidon/ship.png", 
+          "images/poseidon/mermaid.png"
+        ]
       },
       "options": {
         "type": "checkbox",
@@ -28,7 +39,12 @@
       "question": {
         "type": "image-grid",
         "value": "Which god do these attributes belong to?",
-        "media": ["Athena/owl.png", "Athena/olive_tree.png", "Athena/aegis_shield.png", "Athena/helmet.png"]
+        "media": [
+          "images/athena/owl.png", 
+          "images/athena/olive_tree.png", 
+          "images/athena/aegis_shield.png", 
+          "images/athena/helmet.png"
+        ]
       },
       "options": {
         "type": "radio",
@@ -52,7 +68,12 @@
       "question": {
         "type": "image-grid",
         "value": "Which god do these attributes belong to?",
-        "media": ["Apollo/lyre.png", "Apollo/laurel_wreath.png", "Apollo/sun_chariot.png", "Apollo/bow_and_arrow.png"]
+        "media": [
+          "images/apollo/lyre.png", 
+          "images/apollo/laurel_wreath.png", 
+          "images/apollo/sun_chariot.png", 
+          "images/apollo/bow_and_arrow.png"
+        ]
       },
       "options": {
         "type": "radio",
@@ -76,7 +97,12 @@
       "question": {
         "type": "image-grid",
         "value": "Which items are associated with Ares?",
-        "media": ["Ares/spear.png", "Ares/helmet.png", "Ares/vulture.png", "Ares/boar.png"]
+        "media": [
+          "images/ares/spear.png", 
+          "images/ares/helmet.png", 
+          "images/ares/vulture.png", 
+          "images/ares/boar.png"
+        ]
       },
       "options": {
         "type": "checkbox",
@@ -88,7 +114,10 @@
       "question": {
         "type": "image-grid",
         "value": "Which god is often depicted with a winged helmet?",
-        "media": ["Hermes/flying_shoes.png", "Hermes/traveler_hat.png"]
+        "media": [
+          "images/hermes/flying_shoes.png", 
+          "images/hermes/traveler_hat.png"
+        ]
       },
       "options": {
         "type": "radio",
@@ -110,4 +139,3 @@
     }
   ]
 }
-
