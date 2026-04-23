@@ -3,7 +3,7 @@
     {
       "question": {
         "type": "image-grid",
-        "value": "Which god do these attributes belong to?",
+        "text": "Which god do these attributes belong to?",
         "media": [
           "images/zeus/cornucopia.png", 
           "images/zeus/eagle.png", 
@@ -21,7 +21,7 @@
     {
       "question": {
         "type": "image-grid",
-        "value": "Select all attributes that belong to Poseidon.",
+        "text": "Select all attributes that belong to Poseidon.",
         "media": [
           "images/poseidon/sea.png", 
           "images/poseidon/trident.png", 
@@ -38,7 +38,7 @@
     {
       "question": {
         "type": "image-grid",
-        "value": "Which god do these attributes belong to?",
+        "text": "Which god do these attributes belong to?",
         "media": [
           "images/athena/owl.png", 
           "images/athena/olive_tree.png", 
@@ -55,7 +55,7 @@
     {
       "question": {
         "type": "text-only",
-        "value": "Is Hera the goddess of marriage and Queen of the Gods?",
+        "text": "Is Hera the goddess of marriage and Queen of the Gods?",
         "media": []
       },
       "options": {
@@ -67,7 +67,7 @@
     {
       "question": {
         "type": "image-grid",
-        "value": "Which god do these attributes belong to?",
+        "text": "Which god do these attributes belong to?",
         "media": [
           "images/apollo/lyre.png", 
           "images/apollo/laurel_wreath.png", 
@@ -84,7 +84,7 @@
     {
       "question": {
         "type": "text-only",
-        "value": "Artemis is the twin sister of Apollo.",
+        "text": "Artemis is the twin sister of Apollo.",
         "media": []
       },
       "options": {
@@ -96,7 +96,7 @@
     {
       "question": {
         "type": "image-grid",
-        "value": "Which items are associated with Ares?",
+        "text": "Which items are associated with Ares?",
         "media": [
           "images/ares/spear.png", 
           "images/ares/helmet.png", 
@@ -113,7 +113,7 @@
     {
       "question": {
         "type": "image-grid",
-        "value": "Which god is often depicted with a winged helmet?",
+        "text": "Which god is often depicted with a winged helmet?",
         "media": [
           "images/hermes/flying_shoes.png", 
           "images/hermes/traveler_hat.png"
@@ -128,7 +128,7 @@
     {
       "question": {
         "type": "text-only",
-        "value": "Who is the Queen of the Underworld?",
+        "text": "Who is the Queen of the Underworld?",
         "media": []
       },
       "options": {
