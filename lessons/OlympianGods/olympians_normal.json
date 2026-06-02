@@ -20,14 +20,9 @@
     },
     {
       "question": {
-        "type": "image-grid",
+        "type": "text-only",
         "text": "Select all attributes that belong to Poseidon.",
-        "media": [
-          "images/poseidon/sea.png",
-          "images/poseidon/trident.png",
-          "images/poseidon/ship.png",
-          "images/poseidon/mermaid.png"
-        ]
+        "media": []
       },
       "options": {
         "type": "checkbox",
@@ -95,14 +90,9 @@
     },
     {
       "question": {
-        "type": "image-grid",
+        "type": "text-only",
         "text": "Which items are associated with Ares? Select all that apply.",
-        "media": [
-          "images/ares/spear.png",
-          "images/ares/helmet.png",
-          "images/ares/vulture.png",
-          "images/ares/boar.png"
-        ]
+        "media": []
       },
       "options": {
         "type": "checkbox",
