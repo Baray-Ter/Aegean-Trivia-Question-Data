@@ -62,9 +62,9 @@
       },
       "options": {
         "type": "radio",
-        "choices": ["Helios", "Artemis", "Hermes", "Apollon"]
+        "choices": ["Helios", "Artemis", "Hermes", "Apollo"]
       },
-      "correctAnswer": ["Apollon"]
+      "correctAnswer": ["Apollo"]
     },
     {
       "question": {
@@ -100,7 +100,7 @@
       },
       "options": {
         "type": "radio",
-        "choices": ["Ares", "Perseus", "Apollon", "Hermes"]
+        "choices": ["Ares", "Perseus", "Apollo", "Hermes"]
       },
       "correctAnswer": ["Hermes"]
     },
