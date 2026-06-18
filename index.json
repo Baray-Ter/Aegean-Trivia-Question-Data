@@ -7,6 +7,8 @@
       "title": "Olympian Gods",
       "description": "Learn the basics and the deep lore of the major Greek gods.",
       "thumbnail": "thumbnails/olympians_01.png",
+      "imagesUrl": "lessons/OlympianGods/images.zip",
+      "imagesVersion": "1.0.0",
       "levels": [
         {
           "difficultyName": "Easy",
