@@ -1,5 +1,5 @@
 {
-  "version": "1.6.0",
+  "version": "1.6.1",
   "lastUpdated": "2026-04-01T15:45:00Z",
   "categories": [
     {
@@ -18,7 +18,7 @@
           "difficultyName": "Normal",
           "totalQuestions": 15,
           "fileUrl": "lessons/OlympianGods/olympians_normal.json",
-          "checksum": "aaaaaaaa"
+          "checksum": "zzzzzzzz"
         },
         {
           "difficultyName": "Hard",
