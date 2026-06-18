@@ -1,5 +1,5 @@
 {
-  "version": "1.6.1",
+  "version": "1.0.0",
   "lastUpdated": "2026-04-01T15:45:00Z",
   "categories": [
     {
@@ -12,19 +12,19 @@
           "difficultyName": "Easy",
           "totalQuestions": 10,
           "fileUrl": "lessons/OlympianGods/olympians_easy.json",
-          "checksum": "e1a1b2c3"
+          "version": "1.0.0"
         },
         {
           "difficultyName": "Normal",
           "totalQuestions": 15,
           "fileUrl": "lessons/OlympianGods/olympians_normal.json",
-          "checksum": "zzzzzzzz"
+          "version": "1.0.0"
         },
         {
           "difficultyName": "Hard",
           "totalQuestions": 25,
           "fileUrl": "lessons/OlympianGods/olympians_hard.json",
-          "checksum": "bbbbbbbb"
+          "version": "1.0.0"
         }
       ]
     },
@@ -38,19 +38,19 @@
           "difficultyName": "Easy",
           "totalQuestions": 10,
           "fileUrl": "lessons/AegeanRegion/aegean_easy.json",
-          "checksum": "a1b2c3d4"
+          "version": "1.0.0"
         },
         {
           "difficultyName": "Normal",
           "totalQuestions": 15,
           "fileUrl": "lessons/AegeanRegion/aegean_normal.json",
-          "checksum": "b2c3d4e5"
+          "version": "1.0.0"
         },
         {
           "difficultyName": "Hard",
           "totalQuestions": 25,
           "fileUrl": "lessons/AegeanRegion/aegean_hard.json",
-          "checksum": "c3d4e5f6"
+          "version": "1.0.0"
         }
       ]
     }
