@@ -18,13 +18,13 @@
           "difficultyName": "Normal",
           "totalQuestions": 15,
           "fileUrl": "lessons/OlympianGods/olympians_normal.json",
-          "checksum": "n2b2c3d4"
+          "checksum": "aaaaaaaa"
         },
         {
           "difficultyName": "Hard",
           "totalQuestions": 25,
           "fileUrl": "lessons/OlympianGods/olympians_hard.json",
-          "checksum": "h3c3d4e5"
+          "checksum": "bbbbbbbb"
         }
       ]
     },
