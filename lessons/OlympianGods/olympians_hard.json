@@ -5,86 +5,81 @@
         "type": "image-grid",
         "text": "Which god do these attributes belong to?",
         "media": [
-          "images/zeus/cornucopia.png", 
-          "images/zeus/eagle.png", 
-          "images/zeus/lightning_bolt.png", 
-          "images/zeus/oak_tree.png", 
+          "images/zeus/cornucopia.png",
+          "images/zeus/eagle.png",
+          "images/zeus/lightning_bolt.png",
+          "images/zeus/oak_tree.png",
           "images/zeus/statue.png"
         ]
       },
       "options": {
         "type": "radio",
-        "choices": ["Zeus", "Poseidon", "Hades", "Apollo"]
+        "choices": ["Hades", "Cronus", "Zeus", "Poseidon"]
       },
       "correctAnswer": ["Zeus"]
     },
     {
       "question": {
-        "type": "image-grid",
+        "type": "text-only",
         "text": "Select all attributes that belong to Poseidon.",
-        "media": [
-          "images/poseidon/sea.png", 
-          "images/poseidon/trident.png", 
-          "images/poseidon/ship.png", 
-          "images/poseidon/mermaid.png"
-        ]
+        "media": []
       },
       "options": {
         "type": "checkbox",
-        "choices": ["Sea", "Trident", "Ship", "Mermaid"]
+        "choices": ["Trident", "Lightning Bolt", "Sea", "Horses", "Ship", "Owl", "Mermaid", "Cornucopia"]
       },
-      "correctAnswer": ["Sea", "Trident", "Ship", "Mermaid"]
+      "correctAnswer": ["Sea", "Trident", "Ship", "Mermaid", "Horses"]
     },
     {
       "question": {
         "type": "image-grid",
         "text": "Which god do these attributes belong to?",
         "media": [
-          "images/athena/owl.png", 
-          "images/athena/olive_tree.png", 
-          "images/athena/aegis_shield.png", 
+          "images/athena/owl.png",
+          "images/athena/olive_tree.png",
+          "images/athena/aegis_shield.png",
           "images/athena/helmet.png"
         ]
       },
       "options": {
         "type": "radio",
-        "choices": ["Athena", "Hera", "Artemis", "Aphrodite"]
+        "choices": ["Artemis", "Ares", "Hera", "Athena"]
       },
       "correctAnswer": ["Athena"]
     },
     {
       "question": {
         "type": "text-only",
-        "text": "Is Hera the goddess of marriage and Queen of the Gods?",
+        "text": "Hera is the goddess of the harvest and grain.",
         "media": []
       },
       "options": {
         "type": "true-false",
         "choices": ["True", "False"]
       },
-      "correctAnswer": ["True"]
+      "correctAnswer": ["False"]
     },
     {
       "question": {
         "type": "image-grid",
         "text": "Which god do these attributes belong to?",
         "media": [
-          "images/apollo/lyre.png", 
-          "images/apollo/laurel_wreath.png", 
-          "images/apollo/sun_chariot.png", 
+          "images/apollo/lyre.png",
+          "images/apollo/laurel_wreath.png",
+          "images/apollo/sun_chariot.png",
           "images/apollo/bow_and_arrow.png"
         ]
       },
       "options": {
         "type": "radio",
-        "choices": ["Apollo", "Dionysus", "Hermes", "Ares"]
+        "choices": ["Helios", "Artemis", "Hermes", "Apollo"]
       },
       "correctAnswer": ["Apollo"]
     },
     {
       "question": {
         "type": "text-only",
-        "text": "Artemis is the twin sister of Apollo.",
+        "text": "Artemis is the goddess of the moon, hunt, and childbirth.",
         "media": []
       },
       "options": {
@@ -95,45 +90,40 @@
     },
     {
       "question": {
-        "type": "image-grid",
-        "text": "Which items are associated with Ares?",
-        "media": [
-          "images/ares/spear.png", 
-          "images/ares/helmet.png", 
-          "images/ares/vulture.png", 
-          "images/ares/boar.png"
-        ]
+        "type": "text-only",
+        "text": "Which items are associated with Ares? Select all that apply.",
+        "media": []
       },
       "options": {
         "type": "checkbox",
-        "choices": ["Spear", "Vulture", "Boar", "Hammer"]
+        "choices": ["Spear", "Owl", "Vulture", "Boar", "Hammer", "Shield", "Laurel Wreath"]
       },
-      "correctAnswer": ["Spear", "Vulture", "Boar"]
+      "correctAnswer": ["Spear", "Vulture", "Boar", "Shield"]
     },
     {
       "question": {
         "type": "image-grid",
-        "text": "Which god is often depicted with a winged helmet?",
+        "text": "Which god is often depicted with winged sandals and a caduceus?",
         "media": [
-          "images/hermes/flying_shoes.png", 
+          "images/hermes/flying_shoes.png",
           "images/hermes/traveler_hat.png"
         ]
       },
       "options": {
         "type": "radio",
-        "choices": ["Hermes", "Perseus", "Ares", "Apollo"]
+        "choices": ["Ares", "Perseus", "Apollo", "Hermes"]
       },
       "correctAnswer": ["Hermes"]
     },
     {
       "question": {
         "type": "text-only",
-        "text": "Who is the Queen of the Underworld?",
+        "text": "Who is the Queen of the Underworld and daughter of Demeter?",
         "media": []
       },
       "options": {
         "type": "radio",
-        "choices": ["Persephone", "Hecate", "Hera", "Demeter"]
+        "choices": ["Hecate", "Nyx", "Persephone", "Circe"]
       },
       "correctAnswer": ["Persephone"]
     }

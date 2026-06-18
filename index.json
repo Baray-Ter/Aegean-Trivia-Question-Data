@@ -1,5 +1,5 @@
 {
-  "version": "1.5.0",
+  "version": "1.0.0",
   "lastUpdated": "2026-04-01T15:45:00Z",
   "categories": [
     {
@@ -7,24 +7,26 @@
       "title": "Olympian Gods",
       "description": "Learn the basics and the deep lore of the major Greek gods.",
       "thumbnail": "thumbnails/olympians_01.png",
+      "imagesUrl": "lessons/OlympianGods/images.zip",
+      "imagesVersion": "1.0.0",
       "levels": [
         {
           "difficultyName": "Easy",
           "totalQuestions": 10,
           "fileUrl": "lessons/OlympianGods/olympians_easy.json",
-          "checksum": "e1a1b2c3"
+          "version": "1.0.0"
         },
         {
           "difficultyName": "Normal",
           "totalQuestions": 15,
           "fileUrl": "lessons/OlympianGods/olympians_normal.json",
-          "checksum": "n2b2c3d4"
+          "version": "1.0.0"
         },
         {
           "difficultyName": "Hard",
           "totalQuestions": 25,
           "fileUrl": "lessons/OlympianGods/olympians_hard.json",
-          "checksum": "h3c3d4e5"
+          "version": "1.0.0"
         }
       ]
     },
@@ -38,19 +40,19 @@
           "difficultyName": "Easy",
           "totalQuestions": 10,
           "fileUrl": "lessons/AegeanRegion/aegean_easy.json",
-          "checksum": "a1b2c3d4"
+          "version": "1.0.0"
         },
         {
           "difficultyName": "Normal",
           "totalQuestions": 15,
           "fileUrl": "lessons/AegeanRegion/aegean_normal.json",
-          "checksum": "b2c3d4e5"
+          "version": "1.0.0"
         },
         {
           "difficultyName": "Hard",
           "totalQuestions": 25,
           "fileUrl": "lessons/AegeanRegion/aegean_hard.json",
-          "checksum": "c3d4e5f6"
+          "version": "1.0.0"
         }
       ]
     }

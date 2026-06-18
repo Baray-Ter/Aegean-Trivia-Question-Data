@@ -3,7 +3,7 @@
     {
       "question": {
         "type": "image-grid",
-        "text": "Which god do these attributes belong to?",
+        "text": "Bu özellikler hangi tanrıya aittir?",
         "media": [
           "images/zeus/cornucopia.png",
           "images/zeus/eagle.png",
@@ -14,26 +14,26 @@
       },
       "options": {
         "type": "radio",
-        "choices": ["Hades", "Cronus", "Zeus", "Poseidon"]
+        "choices": ["Hades", "Kronos", "Zeus", "Poseidon"]
       },
       "correctAnswer": ["Zeus"]
     },
     {
       "question": {
         "type": "text-only",
-        "text": "Select all attributes that belong to Poseidon.",
+        "text": "Poseidon'a ait olan tüm özellikleri seçin.",
         "media": []
       },
       "options": {
         "type": "checkbox",
-        "choices": ["Trident", "Lightning Bolt", "Sea", "Horses", "Ship", "Owl", "Mermaid", "Cornucopia"]
+        "choices": ["Üç Dişli Yaba", "Yıldırım", "Deniz", "Atlar", "Gemi", "Baykuş", "Deniz Kızı", "Bereket Boynuzu"]
       },
-      "correctAnswer": ["Sea", "Trident", "Ship", "Mermaid", "Horses"]
+      "correctAnswer": ["Deniz", "Üç Dişli Yaba", "Gemi", "Deniz Kızı", "Atlar"]
     },
     {
       "question": {
         "type": "image-grid",
-        "text": "Which god do these attributes belong to?",
+        "text": "Bu özellikler hangi tanrıya aittir?",
         "media": [
           "images/athena/owl.png",
           "images/athena/olive_tree.png",
@@ -50,19 +50,19 @@
     {
       "question": {
         "type": "text-only",
-        "text": "Hera is the goddess of the harvest and grain.",
+        "text": "Hera, hasat ve tahıl tanrıçasıdır.",
         "media": []
       },
       "options": {
         "type": "true-false",
-        "choices": ["True", "False"]
+        "choices": ["Doğru", "Yanlış"]
       },
-      "correctAnswer": ["False"]
+      "correctAnswer": ["Yanlış"]
     },
     {
       "question": {
         "type": "image-grid",
-        "text": "Which god do these attributes belong to?",
+        "text": "Bu özellikler hangi tanrıya aittir?",
         "media": [
           "images/apollo/lyre.png",
           "images/apollo/laurel_wreath.png",
@@ -72,38 +72,38 @@
       },
       "options": {
         "type": "radio",
-        "choices": ["Helios", "Artemis", "Hermes", "Apollo"]
+        "choices": ["Helios", "Artemis", "Hermes", "Apollon"]
       },
-      "correctAnswer": ["Apollo"]
+      "correctAnswer": ["Apollon"]
     },
     {
       "question": {
         "type": "text-only",
-        "text": "Artemis is the goddess of the moon, hunt, and childbirth.",
+        "text": "Artemis ay, avcılık ve doğum tanrıçasıdır.",
         "media": []
       },
       "options": {
         "type": "true-false",
-        "choices": ["True", "False"]
+        "choices": ["Doğru", "Yanlış"]
       },
-      "correctAnswer": ["True"]
+      "correctAnswer": ["Doğru"]
     },
     {
       "question": {
         "type": "text-only",
-        "text": "Which items are associated with Ares? Select all that apply.",
+        "text": "Ares ile hangi nesneler ilişkilendirilir? Uygun olanların tümünü seçin.",
         "media": []
       },
       "options": {
         "type": "checkbox",
-        "choices": ["Spear", "Owl", "Vulture", "Boar", "Hammer", "Shield", "Laurel Wreath"]
+        "choices": ["Mızrak", "Baykuş", "Akbaba", "Yaban Domuzu", "Çekiç", "Kalkan", "Defne Çelengi"]
       },
-      "correctAnswer": ["Spear", "Vulture", "Boar", "Shield"]
+      "correctAnswer": ["Mızrak", "Akbaba", "Yaban Domuzu", "Kalkan"]
     },
     {
       "question": {
         "type": "image-grid",
-        "text": "Which god is often depicted with winged sandals and a caduceus?",
+        "text": "Genellikle kanatlı sandaletler ve bir caduceus (haberci asası) ile tasvir edilen tanrı hangisidir?",
         "media": [
           "images/hermes/flying_shoes.png",
           "images/hermes/traveler_hat.png"
@@ -111,19 +111,19 @@
       },
       "options": {
         "type": "radio",
-        "choices": ["Ares", "Perseus", "Apollo", "Hermes"]
+        "choices": ["Ares", "Perseus", "Apollon", "Hermes"]
       },
       "correctAnswer": ["Hermes"]
     },
     {
       "question": {
         "type": "text-only",
-        "text": "Who is the Queen of the Underworld and daughter of Demeter?",
+        "text": "Yeraltı Dünyasının Kraliçesi ve Demeter'in kızı kimdir?",
         "media": []
       },
       "options": {
         "type": "radio",
-        "choices": ["Hecate", "Nyx", "Persephone", "Circe"]
+        "choices": ["Hekate", "Nyx", "Persephone", "Kirke"]
       },
       "correctAnswer": ["Persephone"]
     }
