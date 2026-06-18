@@ -5,11 +5,7 @@
         "type": "image-grid",
         "text": "Bu özellikler hangi tanrıya aittir?",
         "media": [
-          "images/zeus/cornucopia.png",
-          "images/zeus/eagle.png",
-          "images/zeus/lightning_bolt.png",
-          "images/zeus/oak_tree.png",
-          "images/zeus/statue.png"
+          "images/zeus"
         ]
       },
       "options": {
@@ -35,10 +31,7 @@
         "type": "image-grid",
         "text": "Bu özellikler hangi tanrıya aittir?",
         "media": [
-          "images/athena/owl.png",
-          "images/athena/olive_tree.png",
-          "images/athena/aegis_shield.png",
-          "images/athena/helmet.png"
+          "images/athena"
         ]
       },
       "options": {
@@ -64,10 +57,7 @@
         "type": "image-grid",
         "text": "Bu özellikler hangi tanrıya aittir?",
         "media": [
-          "images/apollo/lyre.png",
-          "images/apollo/laurel_wreath.png",
-          "images/apollo/sun_chariot.png",
-          "images/apollo/bow_and_arrow.png"
+          "images/apollo"
         ]
       },
       "options": {
@@ -105,8 +95,7 @@
         "type": "image-grid",
         "text": "Genellikle kanatlı sandaletler ve bir caduceus (haberci asası) ile tasvir edilen tanrı hangisidir?",
         "media": [
-          "images/hermes/flying_shoes.png",
-          "images/hermes/traveler_hat.png"
+          "images/hermes"
         ]
       },
       "options": {
