@@ -3,139 +3,190 @@
     {
       "question": {
         "type": "image-grid",
-        "text": "Which god do these attributes belong to?",
+        "text": "Bu özellikler hangi tanrıya aittir?",
         "media": [
-          "images/zeus/cornucopia.png", 
-          "images/zeus/eagle.png", 
-          "images/zeus/lightning_bolt.png", 
-          "images/zeus/oak_tree.png", 
-          "images/zeus/statue.png"
+          "images/zeus"
         ]
       },
       "options": {
         "type": "radio",
-        "choices": ["Zeus", "Poseidon", "Hades", "Apollo"]
+        "choices": ["Hades", "Kronos", "Zeus", "Poseidon"]
       },
       "correctAnswer": ["Zeus"]
     },
     {
       "question": {
-        "type": "image-grid",
-        "text": "Select all attributes that belong to Poseidon.",
-        "media": [
-          "images/poseidon/sea.png", 
-          "images/poseidon/trident.png", 
-          "images/poseidon/ship.png", 
-          "images/poseidon/mermaid.png"
-        ]
+        "type": "text-only",
+        "text": "Poseidon'un sembolleri ve özellikleri nelerdir? Uygun olanların tümünü seçin.",
+        "media": []
       },
       "options": {
         "type": "checkbox",
-        "choices": ["Sea", "Trident", "Ship", "Mermaid"]
+        "choices": ["Üç Dişli Yaba", "Atlar", "Deniz", "Yıldırım", "Baykuş", "Deprem"]
       },
-      "correctAnswer": ["Sea", "Trident", "Ship", "Mermaid"]
-    },
-    {
-      "question": {
-        "type": "image-grid",
-        "text": "Which god do these attributes belong to?",
-        "media": [
-          "images/athena/owl.png", 
-          "images/athena/olive_tree.png", 
-          "images/athena/aegis_shield.png", 
-          "images/athena/helmet.png"
-        ]
-      },
-      "options": {
-        "type": "radio",
-        "choices": ["Athena", "Hera", "Artemis", "Aphrodite"]
-      },
-      "correctAnswer": ["Athena"]
+      "correctAnswer": ["Üç Dişli Yaba", "Atlar", "Deniz", "Deprem"]
     },
     {
       "question": {
         "type": "text-only",
-        "text": "Is Hera the goddess of marriage and Queen of the Gods?",
+        "text": "Aphrodite, zeka ve stratejik savaş tanrıçasıdır.",
         "media": []
       },
       "options": {
         "type": "true-false",
-        "choices": ["True", "False"]
+        "choices": ["Doğru", "Yanlış"]
       },
-      "correctAnswer": ["True"]
-    },
-    {
-      "question": {
-        "type": "image-grid",
-        "text": "Which god do these attributes belong to?",
-        "media": [
-          "images/apollo/lyre.png", 
-          "images/apollo/laurel_wreath.png", 
-          "images/apollo/sun_chariot.png", 
-          "images/apollo/bow_and_arrow.png"
-        ]
-      },
-      "options": {
-        "type": "radio",
-        "choices": ["Apollo", "Dionysus", "Hermes", "Ares"]
-      },
-      "correctAnswer": ["Apollo"]
+      "correctAnswer": ["Yanlış"]
     },
     {
       "question": {
         "type": "text-only",
-        "text": "Artemis is the twin sister of Apollo.",
+        "text": "Yeraltı dünyasının tanrısı ve ölülerin efendisi kimdir?",
         "media": []
       },
       "options": {
-        "type": "true-false",
-        "choices": ["True", "False"]
+        "type": "radio",
+        "choices": ["Hades", "Ares", "Hephaistos", "Dionysos"]
       },
-      "correctAnswer": ["True"]
+      "correctAnswer": ["Hades"]
     },
     {
       "question": {
-        "type": "image-grid",
-        "text": "Which items are associated with Ares?",
-        "media": [
-          "images/ares/spear.png", 
-          "images/ares/helmet.png", 
-          "images/ares/vulture.png", 
-          "images/ares/boar.png"
-        ]
+        "type": "text-only",
+        "text": "Zeus'un eşi olan ve evlilik ile doğumu koruyan tanrıça hangisidir?",
+        "media": []
+      },
+      "options": {
+        "type": "radio",
+        "choices": ["Demeter", "Hera", "Athena", "Artemis"]
+      },
+      "correctAnswer": ["Hera"]
+    },
+    {
+      "question": {
+        "type": "text-only",
+        "text": "Apollo ile ilişkilendirilen alanları seçin.",
+        "media": []
       },
       "options": {
         "type": "checkbox",
-        "choices": ["Spear", "Vulture", "Boar", "Hammer"]
+        "choices": ["Müzik", "Güneş", "Kehanet", "Savaş", "Okçuluk", "Denizcilik"]
       },
-      "correctAnswer": ["Spear", "Vulture", "Boar"]
+      "correctAnswer": ["Müzik", "Güneş", "Kehanet", "Okçuluk"]
     },
     {
       "question": {
         "type": "image-grid",
-        "text": "Which god is often depicted with a winged helmet?",
+        "text": "Şarap, bağ bozumu, tiyatro ve eğlence tanrısı kimdir?",
         "media": [
-          "images/hermes/flying_shoes.png", 
-          "images/hermes/traveler_hat.png"
+          "images/dionysus"
         ]
       },
       "options": {
         "type": "radio",
-        "choices": ["Hermes", "Perseus", "Ares", "Apollo"]
+        "choices": ["Apollo", "Dionysos", "Pan", "Hermes"]
+      },
+      "correctAnswer": ["Dionysos"]
+    },
+    {
+      "question": {
+        "type": "text-only",
+        "text": "Ares, Yunan mitolojisinde savaş tanrısıdır.",
+        "media": []
+      },
+      "options": {
+        "type": "true-false",
+        "choices": ["Doğru", "Yanlış"]
+      },
+      "correctAnswer": ["Doğru"]
+    },
+    {
+      "question": {
+        "type": "text-only",
+        "text": "Demeter'in kızı olan ve Hades tarafından yeraltı dünyasına kaçırılan tanrıça kimdir?",
+        "media": []
+      },
+      "options": {
+        "type": "radio",
+        "choices": ["Persephone", "Hekate", "Kirke", "Medusa"]
+      },
+      "correctAnswer": ["Persephone"]
+    },
+    {
+      "question": {
+        "type": "image-grid",
+        "text": "Kanatlı sandaletleri olan haberci tanrı ve hırsızların koruyucusu kimdir?",
+        "media": [
+          "images/hermes_flying"
+        ]
+      },
+      "options": {
+        "type": "radio",
+        "choices": ["Hermes", "Eros", "Ares", "Hephaistos"]
       },
       "correctAnswer": ["Hermes"]
     },
     {
       "question": {
         "type": "text-only",
-        "text": "Who is the Queen of the Underworld?",
+        "text": "Athena'nın sembollerini seçin.",
+        "media": []
+      },
+      "options": {
+        "type": "checkbox",
+        "choices": ["Baykuş", "Zeytin Dalı", "Mızrak", "Gül", "Örs", "Kalkan"]
+      },
+      "correctAnswer": ["Baykuş", "Zeytin Dalı", "Mızrak", "Kalkan"]
+    },
+    {
+      "question": {
+        "type": "text-only",
+        "text": "Artemis ve Apollo ikiz kardeşlerdir.",
+        "media": []
+      },
+      "options": {
+        "type": "true-false",
+        "choices": ["Doğru", "Yanlış"]
+      },
+      "correctAnswer": ["Doğru"]
+    },
+    {
+      "question": {
+        "type": "image-grid",
+        "text": "Aile, yuva ve sönen ateşin (ocağın) tanrıçası kimdir?",
+        "media": [
+          "images/hestia"
+        ]
+      },
+      "options": {
+        "type": "radio",
+        "choices": ["Hestia", "Demeter", "Hera", "Aphrodite"]
+      },
+      "correctAnswer": ["Hestia"]
+    },
+    {
+      "question": {
+        "type": "text-only",
+        "text": "Tanrıların silahlarını yapan ateş ve demircilik tanrısı kimdir?",
         "media": []
       },
       "options": {
         "type": "radio",
-        "choices": ["Persephone", "Hecate", "Hera", "Demeter"]
+        "choices": ["Hephaistos", "Ares", "Kronos", "Poseidon"]
       },
-      "correctAnswer": ["Persephone"]
+      "correctAnswer": ["Hephaistos"]
+    },
+    {
+      "question": {
+        "type": "text-only",
+        "text": "Olimposlu tanrılara başkaldırıp ateşi çalarak insanlara veren Titan kimdir?",
+        "media": []
+      },
+      "options": {
+        "type": "radio",
+        "choices": ["Atlas", "Prometheus", "Kronos", "Uranüs"]
+      },
+      "correctAnswer": ["Prometheus"]
     }
   ]
 }
