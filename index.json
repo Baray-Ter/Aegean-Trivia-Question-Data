@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.6",
   "lastUpdated": "2026-06-29T00:00:00Z",
   "categories": [
     {
@@ -8,7 +8,7 @@
       "description": "Learn the basics and the deep lore of the major Greek gods.",
       "thumbnail": "thumbnails/olympians_01.png",
       "imagesUrl": "lessons/OlympianGods/images.zip",
-      "imagesVersion": "1.0.4",
+      "imagesVersion": "1.0.5",
       "levels": [
         {
           "difficultyName": "Easy",
@@ -18,13 +18,13 @@
         },
         {
           "difficultyName": "Normal",
-          "totalQuestions": 15,
+          "totalQuestions": 30,
           "fileUrl": "lessons/OlympianGods/olympians_normal.json",
-          "version": "1.0.0"
+          "version": "1.0.1"
         },
         {
           "difficultyName": "Hard",
-          "totalQuestions": 30,
+          "totalQuestions": 25,
           "fileUrl": "lessons/OlympianGods/olympians_hard.json",
           "version": "1.0.0"
         }
