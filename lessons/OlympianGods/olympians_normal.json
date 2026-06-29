@@ -92,11 +92,9 @@
     },
     {
       "question": {
-        "type": "image-grid",
+        "type": "text-only",
         "text": "Genellikle kanatlı sandaletler ve bir caduceus (haberci asası) ile tasvir edilen tanrı hangisidir?",
-        "media": [
-          "images/hermes"
-        ]
+        "media": []
       },
       "options": {
         "type": "radio",
@@ -115,6 +113,264 @@
         "choices": ["Hekate", "Nyx", "Persephone", "Kirke"]
       },
       "correctAnswer": ["Persephone"]
+    },
+    {
+      "question": {
+        "type": "text-only",
+        "text": "Aşk ve güzellik tanrıçası Afrodit'in sembollerini seçin.",
+        "media": []
+      },
+      "options": {
+        "type": "checkbox",
+        "choices": ["Güvercin", "Gül", "Deniz Kabuğu", "Zeytin Dalı", "Kuğu", "Örs"]
+      },
+      "correctAnswer": ["Güvercin", "Gül", "Deniz Kabuğu", "Kuğu"]
+    },
+    {
+      "question": {
+        "type": "text-only",
+        "text": "Hephaistos, tanrıların demircisidir ve ateşi kontrol eder.",
+        "media": []
+      },
+      "options": {
+        "type": "true-false",
+        "choices": ["Doğru", "Yanlış"]
+      },
+      "correctAnswer": ["Doğru"]
+    },
+    {
+      "question": {
+        "type": "image-grid",
+        "text": "Şarap, bağ bozumu ve tiyatro tanrısı kimdir?",
+        "media": [
+          "images/dionysus"
+        ]
+      },
+      "options": {
+        "type": "radio",
+        "choices": ["Dionysos", "Pan", "Apollo", "Hermes"]
+      },
+      "correctAnswer": ["Dionysos"]
+    },
+    {
+      "question": {
+        "type": "text-only",
+        "text": "Tarım, bereket ve tahıl tanrıçası kimdir?",
+        "media": []
+      },
+      "options": {
+        "type": "radio",
+        "choices": ["Hera", "Demeter", "Artemis", "Hestia"]
+      },
+      "correctAnswer": ["Demeter"]
+    },
+    {
+      "question": {
+        "type": "text-only",
+        "text": "Hades, Olimpos Dağı'nda yaşayan 12 büyük tanrıdan biridir.",
+        "media": []
+      },
+      "options": {
+        "type": "true-false",
+        "choices": ["Doğru", "Yanlış"]
+      },
+      "correctAnswer": ["Yanlış"]
+    },
+    {
+      "question": {
+        "type": "text-only",
+        "text": "Evlilik ve aile tanrıçası olup, aynı zamanda Zeus'un eşi olan tanrıça kimdir?",
+        "media": []
+      },
+      "options": {
+        "type": "radio",
+        "choices": ["Aphrodite", "Athena", "Hera", "Demeter"]
+      },
+      "correctAnswer": ["Hera"]
+    },
+    {
+      "question": {
+        "type": "text-only",
+        "text": "Zeus'un başından tam zırhlı ve yetişkin olarak doğan tanrıça kimdir?",
+        "media": []
+      },
+      "options": {
+        "type": "radio",
+        "choices": ["Artemis", "Athena", "Persephone", "Hestia"]
+      },
+      "correctAnswer": ["Athena"]
+    },
+    {
+      "question": {
+        "type": "text-only",
+        "text": "Apollo ve Artemis ikiz kardeşlerdir.",
+        "media": []
+      },
+      "options": {
+        "type": "true-false",
+        "choices": ["Doğru", "Yanlış"]
+      },
+      "correctAnswer": ["Doğru"]
+    },
+    {
+      "question": {
+        "type": "text-only",
+        "text": "Yeraltı dünyasının kapısını koruyan üç başlı efsanevi köpeğin adı nedir?",
+        "media": []
+      },
+      "options": {
+        "type": "radio",
+        "choices": ["Orthrus", "Minotor", "Kerberos", "Kimera"]
+      },
+      "correctAnswer": ["Kerberos"]
+    },
+    {
+      "question": {
+        "type": "text-only",
+        "text": "Aşağıdaki eşleşmelerden doğru olan Roma dönemi isimlerini seçin.",
+        "media": []
+      },
+      "options": {
+        "type": "checkbox",
+        "choices": ["Zeus - Jüpiter", "Ares - Mars", "Poseidon - Neptün", "Aphrodite - Venüs", "Athena - Diana"]
+      },
+      "correctAnswer": ["Zeus - Jüpiter", "Ares - Mars", "Poseidon - Neptün", "Aphrodite - Venüs"]
+    },
+    {
+      "question": {
+        "type": "image-grid",
+        "text": "Tanrıların habercisi, hırsızların ve tüccarların koruyucusu kimdir?",
+        "media": [
+          "images/hermes_flying"
+        ]
+      },
+      "options": {
+        "type": "radio",
+        "choices": ["Hermes", "Ares", "Eros", "Hephaistos"]
+      },
+      "correctAnswer": ["Hermes"]
+    },
+    {
+      "question": {
+        "type": "text-only",
+        "text": "Zeus'un babası olan ve kendi çocuklarını yiyen Titan kralı kimdir?",
+        "media": []
+      },
+      "options": {
+        "type": "radio",
+        "choices": ["Uranüs", "Prometheus", "Atlas", "Kronos"]
+      },
+      "correctAnswer": ["Kronos"]
+    },
+    {
+      "question": {
+        "type": "text-only",
+        "text": "Ares, stratejik savaşın ve askeri zekanın tanrısıdır.",
+        "media": []
+      },
+      "options": {
+        "type": "true-false",
+        "choices": ["Doğru", "Yanlış"]
+      },
+      "correctAnswer": ["Yanlış"]
+    },
+    {
+      "question": {
+        "type": "text-only",
+        "text": "Apollon ile ilişkilendirilen alanları seçin.",
+        "media": []
+      },
+      "options": {
+        "type": "checkbox",
+        "choices": ["Müzik", "Kehanet", "Güneş", "Savaş", "Okçuluk", "Demircilik"]
+      },
+      "correctAnswer": ["Müzik", "Kehanet", "Güneş", "Okçuluk"]
+    },
+    {
+      "question": {
+        "type": "text-only",
+        "text": "Fiziksel olarak kusurlu doğduğu için Olimpos'tan atılan zanaatkar tanrı kimdir?",
+        "media": []
+      },
+      "options": {
+        "type": "radio",
+        "choices": ["Hephaistos", "Ares", "Dionysos", "Pan"]
+      },
+      "correctAnswer": ["Hephaistos"]
+    },
+    {
+      "question": {
+        "type": "text-only",
+        "text": "Mevsimlerin oluşması, Yunan mitolojisinde Demeter ve Persephone'nin hikayesine dayanır.",
+        "media": []
+      },
+      "options": {
+        "type": "true-false",
+        "choices": ["Doğru", "Yanlış"]
+      },
+      "correctAnswer": ["Doğru"]
+    },
+    {
+      "question": {
+        "type": "image-grid",
+        "text": "Aile, yuva ve sönen ateşin (ocağın) tanrıçası kimdir?",
+        "media": [
+          "images/hestia"
+        ]
+      },
+      "options": {
+        "type": "radio",
+        "choices": ["Hestia", "Hera", "Demeter", "Athena"]
+      },
+      "correctAnswer": ["Hestia"]
+    },
+    {
+      "question": {
+        "type": "text-only",
+        "text": "Zeus'un erkek kardeşleri kimlerdir?",
+        "media": []
+      },
+      "options": {
+        "type": "checkbox",
+        "choices": ["Poseidon", "Hades", "Ares", "Apollo", "Hephaistos"]
+      },
+      "correctAnswer": ["Poseidon", "Hades"]
+    },
+    {
+      "question": {
+        "type": "text-only",
+        "text": "Hangi tanrıça deniz köpüğünden doğmuştur?",
+        "media": []
+      },
+      "options": {
+        "type": "radio",
+        "choices": ["Athena", "Aphrodite", "Hera", "Artemis"]
+      },
+      "correctAnswer": ["Aphrodite"]
+    },
+    {
+      "question": {
+        "type": "text-only",
+        "text": "Medusa'yı saçları yılanlarla dolu bir canavara dönüştüren tanrıça kimdir?",
+        "media": []
+      },
+      "options": {
+        "type": "radio",
+        "choices": ["Hera", "Aphrodite", "Athena", "Demeter"]
+      },
+      "correctAnswer": ["Athena"]
+    },
+    {
+      "question": {
+        "type": "text-only",
+        "text": "Persephone, yılın yedi ayını yeraltında Hades ile, geri kalanını ise yeryüzünde annesiyle geçirir.",
+        "media": []
+      },
+      "options": {
+        "type": "true-false",
+        "choices": ["Doğru", "Yanlış"]
+      },
+      "correctAnswer": ["Doğru"]
     }
   ]
 }
