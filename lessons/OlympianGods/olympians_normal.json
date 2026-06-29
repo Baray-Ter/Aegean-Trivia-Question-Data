@@ -143,7 +143,7 @@
         "type": "image-grid",
         "text": "Şarap, bağ bozumu ve tiyatro tanrısı kimdir?",
         "media": [
-          "images/dionysus"
+          "images/dionysos"
         ]
       },
       "options": {
@@ -241,7 +241,7 @@
         "type": "image-grid",
         "text": "Tanrıların habercisi, hırsızların ve tüccarların koruyucusu kimdir?",
         "media": [
-          "images/hermes_flying"
+          "images/hermes"
         ]
       },
       "options": {
