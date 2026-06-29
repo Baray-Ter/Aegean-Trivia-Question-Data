@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "lastUpdated": "2026-06-25T00:00:00Z",
+  "version": "1.0.4",
+  "lastUpdated": "2026-06-29T00:00:00Z",
   "categories": [
     {
       "id": "olympians_01",
@@ -8,7 +8,7 @@
       "description": "Learn the basics and the deep lore of the major Greek gods.",
       "thumbnail": "thumbnails/olympians_01.png",
       "imagesUrl": "lessons/OlympianGods/images.zip",
-      "imagesVersion": "1.0.3",
+      "imagesVersion": "1.0.4",
       "levels": [
         {
           "difficultyName": "Easy",
