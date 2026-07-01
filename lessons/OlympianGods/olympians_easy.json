@@ -2,140 +2,363 @@
   "questions": [
     {
       "question": {
-        "type": "image-grid",
-        "text": "Which god do these attributes belong to?",
-        "media": [
-          "images/zeus/cornucopia.png", 
-          "images/zeus/eagle.png", 
-          "images/zeus/lightning_bolt.png", 
-          "images/zeus/oak_tree.png", 
-          "images/zeus/statue.png"
-        ]
+        "type": "text-only",
+        "text": "Olimpos Dağı'nın en büyük tanrısı kimdir?",
+        "media": []
       },
       "options": {
         "type": "radio",
-        "choices": ["Zeus", "Poseidon", "Hades", "Apollo"]
+        "choices": ["Poseidon", "Hades", "Zeus", "Ares"]
       },
       "correctAnswer": ["Zeus"]
     },
     {
       "question": {
-        "type": "image-grid",
-        "text": "Select all attributes that belong to Poseidon.",
-        "media": [
-          "images/poseidon/sea.png", 
-          "images/poseidon/trident.png", 
-          "images/poseidon/ship.png", 
-          "images/poseidon/mermaid.png"
-        ]
-      },
-      "options": {
-        "type": "checkbox",
-        "choices": ["Sea", "Trident", "Ship", "Mermaid"]
-      },
-      "correctAnswer": ["Sea", "Trident", "Ship", "Mermaid"]
-    },
-    {
-      "question": {
-        "type": "image-grid",
-        "text": "Which god do these attributes belong to?",
-        "media": [
-          "images/athena/owl.png", 
-          "images/athena/olive_tree.png", 
-          "images/athena/aegis_shield.png", 
-          "images/athena/helmet.png"
-        ]
+        "type": "text-only",
+        "text": "Deniz ve okyanusların tanrısı kimdir?",
+        "media": []
       },
       "options": {
         "type": "radio",
-        "choices": ["Athena", "Hera", "Artemis", "Aphrodite"]
+        "choices": ["Zeus", "Poseidon", "Hades", "Hermes"]
       },
-      "correctAnswer": ["Athena"]
+      "correctAnswer": ["Poseidon"]
     },
     {
       "question": {
         "type": "text-only",
-        "text": "Is Hera the goddess of marriage and Queen of the Gods?",
+        "text": "Yeraltı dünyasının tanrısı kimdir?",
+        "media": []
+      },
+      "options": {
+        "type": "radio",
+        "choices": ["Ares", "Kronos", "Hades", "Zeus"]
+      },
+      "correctAnswer": ["Hades"]
+    },
+    {
+      "question": {
+        "type": "text-only",
+        "text": "Zeus'un silahı nedir?",
+        "media": []
+      },
+      "options": {
+        "type": "radio",
+        "choices": ["Üç Dişli Yaba", "Yıldırım", "Kılıç", "Mızrak"]
+      },
+      "correctAnswer": ["Yıldırım"]
+    },
+    {
+      "question": {
+        "type": "text-only",
+        "text": "Poseidon'un sembolik silahı nedir?",
+        "media": []
+      },
+      "options": {
+        "type": "radio",
+        "choices": ["Yıldırım", "Ok ve Yay", "Üç Dişli Yaba", "Kalkan"]
+      },
+      "correctAnswer": ["Üç Dişli Yaba"]
+    },
+    {
+      "question": {
+        "type": "text-only",
+        "text": "Yunan tanrıları Olimpos Dağı'nda yaşar.",
         "media": []
       },
       "options": {
         "type": "true-false",
-        "choices": ["True", "False"]
+        "choices": ["Doğru", "Yanlış"]
       },
-      "correctAnswer": ["True"]
+      "correctAnswer": ["Doğru"]
     },
     {
       "question": {
-        "type": "image-grid",
-        "text": "Which god do these attributes belong to?",
-        "media": [
-          "images/apollo/lyre.png", 
-          "images/apollo/laurel_wreath.png", 
-          "images/apollo/sun_chariot.png", 
-          "images/apollo/bow_and_arrow.png"
-        ]
+        "type": "text-only",
+        "text": "Savaş tanrısı kimdir?",
+        "media": []
       },
       "options": {
         "type": "radio",
-        "choices": ["Apollo", "Dionysus", "Hermes", "Ares"]
+        "choices": ["Hermes", "Apollo", "Ares", "Hephaistos"]
+      },
+      "correctAnswer": ["Ares"]
+    },
+    {
+      "question": {
+        "type": "text-only",
+        "text": "Güneş ve müzik tanrısı kimdir?",
+        "media": []
+      },
+      "options": {
+        "type": "radio",
+        "choices": ["Hermes", "Apollo", "Dionysos", "Zeus"]
       },
       "correctAnswer": ["Apollo"]
     },
     {
       "question": {
         "type": "text-only",
-        "text": "Artemis is the twin sister of Apollo.",
+        "text": "Aşk tanrısı Eros'un annesi kimdir?",
         "media": []
       },
       "options": {
-        "type": "true-false",
-        "choices": ["True", "False"]
-      },
-      "correctAnswer": ["True"]
-    },
-    {
-      "question": {
-        "type": "image-grid",
-        "text": "Which items are associated with Ares?",
-        "media": [
-          "images/ares/spear.png", 
-          "images/ares/helmet.png", 
-          "images/ares/vulture.png", 
-          "images/ares/boar.png"
-        ]
-      },
-      "options": {
-        "type": "checkbox",
-        "choices": ["Spear", "Vulture", "Boar", "Hammer"]
-      },
-      "correctAnswer": ["Spear", "Vulture", "Boar"]
-    },
-    {
-      "question": {
-        "type": "image-grid",
-        "text": "Which god is often depicted with a winged helmet?",
-        "media": [
-          "images/hermes/flying_shoes.png", 
-          "images/hermes/traveler_hat.png"
-        ]
-      },
-      "options": {
         "type": "radio",
-        "choices": ["Hermes", "Perseus", "Ares", "Apollo"]
+        "choices": ["Hera", "Athena", "Aphrodite", "Artemis"]
       },
-      "correctAnswer": ["Hermes"]
+      "correctAnswer": ["Aphrodite"]
     },
     {
       "question": {
         "type": "text-only",
-        "text": "Who is the Queen of the Underworld?",
+        "text": "Avcılık tanrıçası kimdir?",
         "media": []
       },
       "options": {
         "type": "radio",
-        "choices": ["Persephone", "Hecate", "Hera", "Demeter"]
+        "choices": ["Hera", "Athena", "Demeter", "Artemis"]
       },
-      "correctAnswer": ["Persephone"]
+      "correctAnswer": ["Artemis"]
+    },
+    {
+      "question": {
+        "type": "text-only",
+        "text": "Yunan mitolojisinde kaç büyük Olimpos tanrısı vardır?",
+        "media": []
+      },
+      "options": {
+        "type": "radio",
+        "choices": ["10", "12", "14", "9"]
+      },
+      "correctAnswer": ["12"]
+    },
+    {
+      "question": {
+        "type": "text-only",
+        "text": "Tanrıların içeceği nektardır.",
+        "media": []
+      },
+      "options": {
+        "type": "true-false",
+        "choices": ["Doğru", "Yanlış"]
+      },
+      "correctAnswer": ["Doğru"]
+    },
+    {
+      "question": {
+        "type": "text-only",
+        "text": "Hermes hangi görevleri üstlenir? Uygun olanları seçin.",
+        "media": []
+      },
+      "options": {
+        "type": "checkbox",
+        "choices": ["Tanrıların habercisi", "Ruhların rehberi", "Denizlerin koruyucusu", "Tüccarların koruyucusu"]
+      },
+      "correctAnswer": ["Tanrıların habercisi", "Ruhların rehberi", "Tüccarların koruyucusu"]
+    },
+    {
+      "question": {
+        "type": "text-only",
+        "text": "Yunan tanrıları ölümsüzdür.",
+        "media": []
+      },
+      "options": {
+        "type": "true-false",
+        "choices": ["Doğru", "Yanlış"]
+      },
+      "correctAnswer": ["Doğru"]
+    },
+    {
+      "question": {
+        "type": "text-only",
+        "text": "Athena hangi hayvanla özdeşleştirilir?",
+        "media": []
+      },
+      "options": {
+        "type": "radio",
+        "choices": ["Kartal", "Baykuş", "Yılan", "Aslan"]
+      },
+      "correctAnswer": ["Baykuş"]
+    },
+    {
+      "question": {
+        "type": "text-only",
+        "text": "Zeus hangi hayvanla özdeşleştirilir?",
+        "media": []
+      },
+      "options": {
+        "type": "radio",
+        "choices": ["Aslan", "Boğa", "Kartal", "At"]
+      },
+      "correctAnswer": ["Kartal"]
+    },
+    {
+      "question": {
+        "type": "text-only",
+        "text": "Hephaistos'un mesleği nedir?",
+        "media": []
+      },
+      "options": {
+        "type": "radio",
+        "choices": ["Çiftçi", "Demirci", "Haberci", "Doktor"]
+      },
+      "correctAnswer": ["Demirci"]
+    },
+    {
+      "question": {
+        "type": "text-only",
+        "text": "Prometheus insanlara neyi verdiği için cezalandırıldı?",
+        "media": []
+      },
+      "options": {
+        "type": "radio",
+        "choices": ["Su", "Ateş", "Toprak", "Hava"]
+      },
+      "correctAnswer": ["Ateş"]
+    },
+    {
+      "question": {
+        "type": "text-only",
+        "text": "Hangi tanrı tıp ve şifa ile ilişkilendirilir?",
+        "media": []
+      },
+      "options": {
+        "type": "radio",
+        "choices": ["Ares", "Hermes", "Apollo", "Hades"]
+      },
+      "correctAnswer": ["Apollo"]
+    },
+    {
+      "question": {
+        "type": "text-only",
+        "text": "Afrodit denizden doğmuştur.",
+        "media": []
+      },
+      "options": {
+        "type": "true-false",
+        "choices": ["Doğru", "Yanlış"]
+      },
+      "correctAnswer": ["Doğru"]
+    },
+    {
+      "question": {
+        "type": "text-only",
+        "text": "Hangi tanrılar Zeus'un kardeşleridir? Uygun olanları seçin.",
+        "media": []
+      },
+      "options": {
+        "type": "checkbox",
+        "choices": ["Poseidon", "Hades", "Hera", "Apollo", "Demeter"]
+      },
+      "correctAnswer": ["Poseidon", "Hades", "Demeter"]
+    },
+    {
+      "question": {
+        "type": "text-only",
+        "text": "Tanrıların yiyeceği nedir?",
+        "media": []
+      },
+      "options": {
+        "type": "radio",
+        "choices": ["Ambrosia", "Nektar", "Zeytinyağı", "Bal"]
+      },
+      "correctAnswer": ["Ambrosia"]
+    },
+    {
+      "question": {
+        "type": "text-only",
+        "text": "Dionysos şarap tanrısıdır.",
+        "media": []
+      },
+      "options": {
+        "type": "true-false",
+        "choices": ["Doğru", "Yanlış"]
+      },
+      "correctAnswer": ["Doğru"]
+    },
+    {
+      "question": {
+        "type": "text-only",
+        "text": "Hangi tanrıça bilgelik ve strateji ile özdeşleştirilir?",
+        "media": []
+      },
+      "options": {
+        "type": "radio",
+        "choices": ["Hera", "Artemis", "Athena", "Demeter"]
+      },
+      "correctAnswer": ["Athena"]
+    },
+    {
+      "question": {
+        "type": "text-only",
+        "text": "Titanlar, Olimpos tanrılarından önce dünyaya hükmetmiştir.",
+        "media": []
+      },
+      "options": {
+        "type": "true-false",
+        "choices": ["Doğru", "Yanlış"]
+      },
+      "correctAnswer": ["Doğru"]
+    },
+    {
+      "question": {
+        "type": "text-only",
+        "text": "Hangi tanrı okçulukla ilişkilendirilir?",
+        "media": []
+      },
+      "options": {
+        "type": "radio",
+        "choices": ["Ares", "Hermes", "Apollo", "Hephaistos"]
+      },
+      "correctAnswer": ["Apollo"]
+    },
+    {
+      "question": {
+        "type": "text-only",
+        "text": "Hera, Zeus'un kız kardeşi ve eşidir.",
+        "media": []
+      },
+      "options": {
+        "type": "true-false",
+        "choices": ["Doğru", "Yanlış"]
+      },
+      "correctAnswer": ["Doğru"]
+    },
+    {
+      "question": {
+        "type": "text-only",
+        "text": "Hangi semboller Hermes ile ilişkilendirilir? Uygun olanları seçin.",
+        "media": []
+      },
+      "options": {
+        "type": "checkbox",
+        "choices": ["Kanatlı Sandaletler", "Caduceus", "Üç Dişli Yaba", "Kanat Şapka"]
+      },
+      "correctAnswer": ["Kanatlı Sandaletler", "Caduceus", "Kanat Şapka"]
+    },
+    {
+      "question": {
+        "type": "text-only",
+        "text": "Yunan mitolojisinde rüzgar tanrısı kimdir?",
+        "media": []
+      },
+      "options": {
+        "type": "radio",
+        "choices": ["Boreas", "Helios", "Selene", "Eos"]
+      },
+      "correctAnswer": ["Boreas"]
+    },
+    {
+      "question": {
+        "type": "text-only",
+        "text": "Hestia ocak ve ev tanrıçasıdır.",
+        "media": []
+      },
+      "options": {
+        "type": "true-false",
+        "choices": ["Doğru", "Yanlış"]
+      },
+      "correctAnswer": ["Doğru"]
     }
   ]
 }

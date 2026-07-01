@@ -1,5 +1,5 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "lastUpdated": "2026-06-29T00:00:00Z",
   "categories": [
     {
@@ -12,7 +12,7 @@
       "levels": [
         {
           "difficultyName": "Easy",
-          "totalQuestions": 10,
+          "totalQuestions": 30,
           "fileUrl": "lessons/OlympianGods/olympians_easy.json",
           "version": "1.0.0"
         },
