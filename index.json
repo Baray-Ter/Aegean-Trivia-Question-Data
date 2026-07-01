@@ -14,13 +14,13 @@
           "difficultyName": "Easy",
           "totalQuestions": 30,
           "fileUrl": "lessons/OlympianGods/olympians_easy.json",
-          "version": "1.0.0"
+          "version": "1.0.1"
         },
         {
           "difficultyName": "Normal",
           "totalQuestions": 30,
           "fileUrl": "lessons/OlympianGods/olympians_normal.json",
-          "version": "1.0.1"
+          "version": "1.0.2"
         },
         {
           "difficultyName": "Hard",
